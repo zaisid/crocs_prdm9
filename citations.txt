@@ -1,0 +1,8 @@
+Data was sourced through NCBI & NCBI  Datasets CLI
+
+Altschul, S. (1997). Gapped BLAST and PSI-BLAST: a new generation of protein database search programs. Nucleic Acids Research, 25(17), 3389–3402. https://doi.org/10.1093/nar/25.17.3389
+
+Camacho, C., Coulouris, G., Avagyan, V., Ma, N., Papadopoulos, J., Bealer, K., & Madden, T. L. (2009). BLAST+: architecture and applications. BMC Bioinformatics, 10(1). https://doi.org/10.1186/1471-2105-10-421
+
+Lars Gabriel, Felix Becker, Katharina J Hoff, Mario Stanke, Tiberius: end-to-end deep learning with an HMM for gene prediction, Bioinformatics, Volume 40, Issue 12, December 2024, btae685, https://doi.org/10.1093/bioinformatics/btae685
+
