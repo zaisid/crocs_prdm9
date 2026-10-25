@@ -1,0 +1,5 @@
+species	status	prdm9_top_blastp_hit	n_ref_neighbours	n_with_hit	spearman_rho	synteny_chrom	n_on_synteny_chrom	left_anchor	right_anchor	anchor_gap_in_ref_genes	region	region_len	n_other_genes_in_region	tblastn_n_hits	tblastn_best_bitscore	tblastn_best_evalue	tblastn_query_cov
+amer_gat	ok	LOC102573831 (zinc finger protein 345) on NC_081828.1	20	20	-0.46	NC_081838.1	19	LOC101948122->PRR19	CD79A->CD79A	2	NC_081838.1:30950952-30960578	9627	2	1	53.1	2.18e-10	0.055
+chin_gat	ok	LOC102370167 () on NW_005842348.1	20	19	0.983	NW_005843253.1	9	LOC101947105->LOC102387656	CD79A->CD79A	3	NW_005843253.1:85569-98420	12852	1	1	55.5	5.42e-11	0.055
+aus_croc	ok	LOC109313827 () on NW_017728925.1	20	15	0.631	NW_017728926.1	7	LOC112061446->POU2F2	ERFL->LOC109314487	7	NW_017728926.1:3508566-3552419	43854	3	7	224.0	2.31e-63	0.336
+gharial	ok	LOC109292789 () on NW_017729011.1	20	14	1.0	NW_017728980.1	3	GRIK5->GRIK4	ARHGEF1->ARHGEF12	8	NW_017728980.1:11696426-12094505	398080	0	0			0.0
