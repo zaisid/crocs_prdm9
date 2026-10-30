@@ -1,0 +1,6 @@
+name,accession,gff,protein,genome
+turtle,GCF_011386835.1,../turtle/genome/ncbi_dataset/data/GCF_011386835.1/genomic.gff,../turtle/genome/ncbi_dataset/data/GCF_011386835.1/protein.faa
+amer_gat,GCF_030867095.1
+chin_gat,GCF_000455745.1
+aus_croc,GCF_001723895.1
+gharial,GCF_001723915.1

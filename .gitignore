@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+*.DStore
+
+
+## NEEDS TO BE CLEANED
+pipeline/synteny/alligator*
+pipeline/synteny/pipeline/data/
+pipeline/synteny/pipeline/results/
+pipeline/synteny/notes/mainBLAST_terminal
+pipeline/synteny/notes/pipeline_draft.ipynb
+pipeline/synteny/blast/*_db/
+pipeline/synteny/turtle/
+pipeline/synteny/pipeline/*.svg
+pipeline/synteny/pipeline/misc_gffs/
+

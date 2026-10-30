@@ -1,0 +1,9 @@
+Symbol,	NCBI GeneID,	Taxonomic Name,	Orientation,	Reference Standard Gene, Range Sequence Accession	Reference Standard Gene Range Start	Reference Standard Gene Range Stop	Transcripts	Proteins
+PRDM9,	101947848,	Chrysemys picta bellii,	plus,	7, 
+
+
+Chromosome: 20
+Start: 992989
+Stop: 1017260
+NCBI ID: 101947848
+Strand: +

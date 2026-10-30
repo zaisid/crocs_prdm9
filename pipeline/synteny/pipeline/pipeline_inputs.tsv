@@ -1,0 +1,8 @@
+name	accession	gff	protein	genome
+turtle 	GCF_011386835.1 	../turtle/genome/ncbi_dataset/data/GCF_011386835.1/genomic.gff	../turtle/genome/ncbi_dataset/data/GCF_011386835.1/protein.faa
+amer_gat	GCF_030867095.1	../alligator/genome/gator_GCF_030867095.1_copy.gff	
+nile_croc	GCA_054825085.1	misc_gffs/GCA_054825085.1_ncbi_dataset/ncbi_dataset/data/GCA_054825085.1/genomic.gbff
+siam_croc	GCA_052110815.1	misc_gffs/GCA_052110815.1_ncbi_dataset/ncbi_dataset/data/GCA_052110815.1/genomic.gbff
+chin_gat	GCF_000455745.1
+aus_croc	GCF_001723895.1
+cuba_croc	GCA_038503035.1	misc_gffs/GCA_038503035.1_ncbi_dataset/ncbi_dataset/data/GCA_038503035.1/genomic.gbff
