@@ -1,3 +1,3 @@
-# crocs_prdm9
+# crocs_prdm9  🐊
 
-*Full code & files to be pushed soon*
+*Full code & files, plus project updates, to be pushed soon*
