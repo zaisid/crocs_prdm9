@@ -219,7 +219,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-*.DStore
+.DStore
 
 
 ## NEEDS TO BE CLEANED
